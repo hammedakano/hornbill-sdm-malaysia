@@ -1,0 +1,6 @@
+outputs/*.tif
+outputs/*.rds
+outputs/species/
+.Rhistory
+.RData
+.Rproj.user/

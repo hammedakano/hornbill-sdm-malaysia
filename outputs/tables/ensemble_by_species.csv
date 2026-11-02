@@ -1,0 +1,4 @@
+"species","n_presence","ensemble_auc_spatial","models_used","threshold_p10"
+"Buceros bicornis",34,0.793,"BRT GAM GLM",0.573
+"Rhinoplax vigil",28,0.778,"BRT GAM",0.639
+"Rhyticeros undulatus",33,0.729,"GAM GLM",0.315
